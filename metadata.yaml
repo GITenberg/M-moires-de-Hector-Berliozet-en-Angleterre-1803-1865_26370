@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hector_Berlioz
     - http://fr.wikipedia.org/wiki/Hector_Berlioz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26370#M-moires-de-Hector-Berliozet-en-Angleterre-1803-1865
 gutenberg_bookshelf:
 - FR Musique
 - Music
