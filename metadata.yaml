@@ -1,0 +1,46 @@
+_repo: M-moires-de-Hector-Berliozet-en-Angleterre-1803-1865_26370
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berlioz, Hector
+    aliases:
+    - Berlioz, Louis Hector
+    - Berlioz, H. (Hector)
+    birthdate: 1803
+    deathdate: 1869
+    gutenberg_agent_id: '31953'
+    url: http://www.gutenberg.org/2009/agents/31953
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hector_Berlioz
+    - http://fr.wikipedia.org/wiki/Hector_Berlioz
+description: ''
+gutenberg_bookshelf:
+- FR Musique
+- Music
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26370'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Berlioz, Hector, 1803-1869'
+- !lcsh 'Music -- France -- 19th century -- History and criticism'
+- !lcsh 'Composers -- France -- Biography'
+- !lcsh 'Russia -- Description and travel'
+- !lcsh 'Autobiographies'
+- !lcc 'D'
+- !lcc 'CT'
+- !lcc 'ML'
+- !lcsh 'Germany -- Description and travel'
+- !lcsh 'England -- Description and travel'
+- !lcsh 'Italy -- Description and travel'
+title: "Mémoires de Hector Berlioz\r\ncomprenant ses voyages en Italie, en Allemagne,\
+  \ en Russie et en Angleterre, 1803-1865"
+url: http://www.gutenberg.org/ebooks/26370
